@@ -1,3 +1,4 @@
 Mars is the 4th planet from the sun
 It is hot and dry
 ...and red
+...and has 23 moons
